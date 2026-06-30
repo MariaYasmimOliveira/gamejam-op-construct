@@ -1,10 +1,10 @@
-# Flecha Arcana
+# Staffbreaker
 
 Projeto de jogo 2D feito no Construct 3 para uma game jam. O jogo coloca um arqueiro em uma luta contra um boss mago muito mais poderoso, com foco em sobrevivencia, leitura de padroes e uma virada temporaria de poder.
 
 ## Sobre o jogo
 
-Em Flecha Arcana, o jogador controla um arqueiro em uma arena de floresta sombria. O inimigo principal e um mago gigante que dispara bolas de fogo roxas em diferentes alturas e causa muito dano em contato direto.
+Em Staffbreaker, o jogador controla um arqueiro em uma arena de floresta sombria. O inimigo principal e um mago gigante que dispara bolas de fogo roxas em diferentes alturas e causa muito dano em contato direto.
 
 No inicio da batalha, o boss domina o combate. A flecha normal do jogador causa pouco dano, entao o objetivo principal e sobreviver, observar os ataques e acertar o ponto fraco no topo do cajado do boss.
 
